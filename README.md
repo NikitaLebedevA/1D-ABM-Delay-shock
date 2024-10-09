@@ -11,7 +11,6 @@ conda install jupyter
 conda install -c anaconda ipykernel
 python -m ipykernel install --user --name=2D-ABM
 ```
-# 2D-ABM-master
-# 2D-ABM-master
-# 2D-ABM-master
-# 2D-ABM-master
+
+For 1 simualtion and creating graphs use "1 simulation.py"
+For running set of simulations with different scenarios "use mail_multi_simulations.py"
